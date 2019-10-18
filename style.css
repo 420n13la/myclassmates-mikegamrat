@@ -1,3 +1,24 @@
 body{
-	
+	background-image: url("pattern.png");
+}
+.image1{
+	border: 4px;
+	border-color: white;
+}
+.image2{
+	border: 4px;
+	border-color: white;
+}
+.image3{
+	border: 4px;
+	border-color:white;
+}
+
+header{
+	border-style: dashed;
+	border-style: ridge;
+}
+
+hr{
+	style: dotted;
 }
