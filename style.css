@@ -1,17 +1,9 @@
 body{
 	background-image: url("pattern.png");
 }
-.image1{
+.images{
 	border: 4px;
 	border-color: white;
-}
-.image2{
-	border: 4px;
-	border-color: white;
-}
-.image3{
-	border: 4px;
-	border-color:white;
 }
 
 header{
