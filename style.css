@@ -8,8 +8,9 @@ body{
 }
 
 header{
-	border-style: dashed;
-	border-style: ridge;
+	border:2px dashed yellow;
+	border-radius:30px 100px 30px 100px;
+	
 }
 
 hr{
