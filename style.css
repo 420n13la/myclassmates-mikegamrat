@@ -4,6 +4,7 @@ body{
 .images{
 	border: 4px;
 	border-color: white;
+	display: inline-block;
 }
 
 header{
